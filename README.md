@@ -98,6 +98,8 @@ Desenhei os elementos da marca (logo, rabiscos, seta, raios, estrela e coroa), d
 
 TanStack Start · React · TypeScript · Tailwind CSS · Supabase (Postgres) · IA generativa de imagem com streaming · Lovable
 
+Quer ver por dentro? A pasta [`produto/`](produto/) tem trechos do código real da geração de cartazes: a rota do servidor, a estrutura do prompt e o streaming da imagem.
+
 ---
 
 <p align="center">
