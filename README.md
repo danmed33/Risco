@@ -18,9 +18,9 @@
 ---
 
 <p align="center">
-  <img src="assets/risco-demo.gif" alt="Demonstração do RISCÔ: a abertura com o logo, as seções do site e o desenho de um monstrinho rosa virando o cartaz Monsterela" width="100%" />
+  <img src="assets/risco-demo.gif" alt="Demonstração do RISCÔ: o logo animado e um desenho de monstrinho rosa virando o cartaz Monsterela no estúdio" width="100%" />
 </p>
-<p align="center"><sub>Gravação real do site: o desenho da Bia Paes enviado no estúdio "Teste aqui" vira o cartaz "Monsterela", gerado por IA na hora.</sub></p>
+<p align="center"><sub>Gravação real do produto: um desenho enviado no estúdio "Teste aqui" vira o cartaz "Monsterela", gerado por IA na hora.</sub></p>
 
 ## O problema
 
