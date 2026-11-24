@@ -18,9 +18,9 @@
 ---
 
 <p align="center">
-  <img src="assets/risco-demo.gif" alt="Demonstração do RISCÔ: a abertura com o logo, as seções do site e um cartaz sendo criado a partir de um desenho" width="100%" />
+  <img src="assets/risco-demo.gif" alt="Demonstração do RISCÔ: a abertura com o logo, as seções do site e o desenho de um monstrinho rosa virando o cartaz Monsterela" width="100%" />
 </p>
-<p align="center"><sub>Gravação real do site: um desenho enviado no estúdio "Teste aqui" vira o cartaz "O Grande Bloco Vermelho".</sub></p>
+<p align="center"><sub>Gravação real do site: o desenho da Bia Paes enviado no estúdio "Teste aqui" vira o cartaz "Monsterela", gerado por IA na hora.</sub></p>
 
 ## O problema
 
