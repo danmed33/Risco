@@ -104,5 +104,5 @@ Quer ver por dentro? A pasta [`produto/`](produto/) tem trechos do código real 
 
 <p align="center">
   <img src="assets/estrela-hero.svg" width="28" alt="" /><br/>
-  <sub>Criado por <b>Daniel Medeiros</b> · <a href="https://riscoaventura.lovable.app">riscoaventura.lovable.app</a></sub>
+  <sub>Criado por <b>Daniel Souza</b> · <a href="https://riscoaventura.lovable.app">riscoaventura.lovable.app</a></sub>
 </p>
