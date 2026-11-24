@@ -18,8 +18,9 @@
 ---
 
 <p align="center">
-  <img src="assets/hero-desktop.png" alt="Página inicial do RISCÔ: o desenho da criança ao lado do mesmo personagem em 3D" width="100%" />
+  <img src="assets/risco-demo.gif" alt="Demonstração do RISCÔ: a abertura com o logo, as seções do site e um cartaz sendo criado a partir de um desenho" width="100%" />
 </p>
+<p align="center"><sub>Gravação real do site: um desenho enviado no estúdio "Teste aqui" vira o cartaz "O Grande Bloco Vermelho".</sub></p>
 
 ## O problema
 
